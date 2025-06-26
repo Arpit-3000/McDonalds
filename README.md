@@ -25,13 +25,13 @@ This is a static frontend-only clone of the official **McDonald's** website, bui
 
 ## 📁 Project Features
 
-- 🔸 Replicates McDonald’s official homepage layout
-- 🔸 Static navigation bar with logo and links
-- 🔸 Promotional banner section
-- 🔸 Grid layout for featured items or services
-- 🔸 Footer with links and contact information
-- 🔸 Custom fonts and color schemes matching McDonald's branding
-- 🔸 Clean, readable HTML and CSS codebase
+- Replicates McDonald’s official homepage layout
+- Static navigation bar with logo and links
+- Promotional banner section
+- Grid layout for featured items or services
+- Footer with links and contact information
+- Custom fonts and color schemes matching McDonald's branding
+- Clean, readable HTML and CSS codebase
 
 ---
 
