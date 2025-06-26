@@ -1,0 +1,43 @@
+# 🍟 McDonald's Clone Website (Frontend Only)
+
+This is a static frontend-only clone of the official **McDonald's** website, built using **HTML** and **CSS**. It replicates the UI layout and design elements but does **not** include responsiveness or backend functionality.
+
+> ⚠️ This website is not responsive and is best viewed on desktop screens.
+
+---
+
+## 🔗 Live Demo
+
+👉 [Visit the Live Website on Vercel](https://mc-donalds-woad.vercel.app/)  
+_(Replace this link if your actual Vercel deployment URL is different)_
+
+---
+
+## 📸 Preview
+
+![Homepage Preview](./preview.png) <!-- Optional: Add a screenshot of your site here -->
+
+---
+
+## 🛠 Tech Stack
+
+- ✅ HTML5
+- ✅ CSS3
+- ❌ JavaScript (not used)
+- ❌ Backend (not included)
+
+---
+
+## 📁 Project Features
+
+- 🔸 Replicates McDonald’s official homepage layout
+- 🔸 Static navigation bar with logo and links
+- 🔸 Promotional banner section
+- 🔸 Grid layout for featured items or services
+- 🔸 Footer with links and contact information
+- 🔸 Custom fonts and color schemes matching McDonald's branding
+- 🔸 Organized folder structure with `css/` and `assets/`
+- 🔸 Clean, readable HTML and CSS codebase
+
+---
+
