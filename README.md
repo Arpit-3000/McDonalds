@@ -9,13 +9,8 @@ This is a static frontend-only clone of the official **McDonald's** website, bui
 ## 🔗 Live Demo
 
 👉 [Visit the Live Website on Vercel](https://mc-donalds-woad.vercel.app/)  
-_(Replace this link if your actual Vercel deployment URL is different)_
 
----
 
-## 📸 Preview
-
-![Homepage Preview](./preview.png) <!-- Optional: Add a screenshot of your site here -->
 
 ---
 
