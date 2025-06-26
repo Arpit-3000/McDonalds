@@ -31,7 +31,6 @@ This is a static frontend-only clone of the official **McDonald's** website, bui
 - 🔸 Grid layout for featured items or services
 - 🔸 Footer with links and contact information
 - 🔸 Custom fonts and color schemes matching McDonald's branding
-- 🔸 Organized folder structure with `css/` and `assets/`
 - 🔸 Clean, readable HTML and CSS codebase
 
 ---
